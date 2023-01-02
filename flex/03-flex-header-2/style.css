@@ -54,21 +54,16 @@ ul {
   align-items: center;
   padding: 8px;
   gap: 16px;
+  margin-left: 0;
 }
 
 .logo {
   flex-shrink: 0;
-  margin-left: 0;
 }
 
 .links {
   flex-shrink: 0;
   display: flex;
-  margin-left: 0;
+  margin-right: auto;
   gap: 16px;
-}
-
-.notifications,
-.profile-image {
-  margin-right: 0;
 }
