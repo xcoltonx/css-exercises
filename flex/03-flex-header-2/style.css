@@ -67,3 +67,7 @@ ul {
   margin-right: auto;
   gap: 16px;
 }
+
+.profile-image {
+  flex-shrink: 0;
+}
