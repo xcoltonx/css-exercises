@@ -67,3 +67,8 @@ ul {
   margin-left: 0;
   gap: 16px;
 }
+
+.notifications,
+.profile-image {
+  margin-right: 0;
+}
