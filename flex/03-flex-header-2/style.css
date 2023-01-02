@@ -65,4 +65,5 @@ ul {
   flex-shrink: 0;
   display: flex;
   margin-left: 0;
+  gap: 16px;
 }
